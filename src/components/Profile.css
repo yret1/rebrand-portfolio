@@ -103,5 +103,8 @@ hr{
         height: 200px;
         position: center;
     }
-   
+    .profile__spinner{
+        width: 210px;
+        height: 210px;
+    }
 }
