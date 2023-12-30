@@ -1,0 +1,14 @@
+header {
+    background-color: black;
+    border-bottom: 1px solid black;
+    height: 60px;
+    line-height: 60px;
+    top: 0;
+    width: 100%;
+}
+
+@media (max-width: 720px) {
+    header {
+        text-align: center;
+    }
+}
